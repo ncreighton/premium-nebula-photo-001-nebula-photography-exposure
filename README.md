@@ -1,0 +1,2 @@
+# premium-nebula-photo-001-nebula-photography-exposure
+Tired of missing the perfect nebula shot because your exposure settings were a shot in the dark? The Nebula Photography &amp; Exposure Calc Craft Workshop transforms guesswork into precise, repeatable results.  This Notion template eliminates exposure calculation errors and scattered planning by combining a dedicated exposure calculator with a structur
